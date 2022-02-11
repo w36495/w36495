@@ -8,7 +8,7 @@
   
 ### 🔥 Project  
 - [Basic List](https://github.com/w36495/BasicList)
-- [EveryLaundry](https://github.com/w36495/EveryLaundry-java)
+- [EveryLaundry (Java)](https://github.com/w36495/EveryLaundry-java)
 - [Senty](https://github.com/w36495/Senty)
 
 ### 🛠 Stack  
