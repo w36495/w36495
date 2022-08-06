@@ -10,6 +10,7 @@
 - [Basic List](https://github.com/w36495/BasicList)
 - [EveryLaundry (Java)](https://github.com/w36495/EveryLaundry-java)
 - [Senty](https://github.com/w36495/Senty)
+- [About](https://github.com/w36495/about)
 
 ### 🛠 Stack  
 <img src="https://img.shields.io/badge/Java-007396??style=for-the-badge&logo=Java&logoColor=white"/></a>
