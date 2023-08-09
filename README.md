@@ -1,13 +1,11 @@
 ## Hey, I'm JiYoung 👋 
   
 ### 🙋‍♀️ About Me,
-- I majored in computer science in univercity and I graduated in February 2022.  
-- I'm currently learning Kotlin and Android.  
+- I majored in computer science in university and I graduated in February 2022.  
+- I'm currently learning Kotlin and Android (2021.08. ~ 2022.07.)
 - I was a member of GDSC DJU's Android team.  
  
 ### 🔥 Project  
-- [Basic List](https://github.com/w36495/BasicList)
-- [EveryLaundry (Java)](https://github.com/w36495/EveryLaundry-java)
 - [Senty](https://github.com/w36495/Senty)
 - [About](https://github.com/w36495/about)
 
